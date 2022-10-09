@@ -1,0 +1,76 @@
+h1{
+    color:rgba(11, 194, 201, 0.918);
+    cursor: pointer;
+    transition:0,2s;
+}
+body{
+    background-color: rgb(79, 100, 107);
+}
+img{
+    width: 4cm;
+    border-radius: 30%;
+    box-shadow: 1px 1px 4px rgba(182, 163, 81, 0.774);
+    padding: 3px;
+    background: black;
+    transition: 2s;
+    margin: 20px;
+    opacity: 75%;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pilihan {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  rgb(201, 142, 65);
+    border: 3px solid white;
+    border-radius: 4px;
+} 
+.isi-pilihan {
+    float: left;
+}
+.isi-pilihan a{
+    display: block;
+    color: black;
+    padding: 8px 28px;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.isi-pilihan a:hover{
+    transform: scale(1.1);
+    background-color:  rgb(181, 124, 51);
+}
+
+h2, p{
+    text-align: center;
+    font-family: sans-serif;
+}
+.opsi{
+    background-color: rgb(201, 142, 65);
+    border: 1px solid white;
+    padding: 2px;
+    display: none;
+    color: black;
+    border-radius: 6px;
+} 
+.teh{
+    background-color:rgb(181, 124, 51);
+}
+.Nama{
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+.kata{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.isi-kerja{
+    color: black;
+    text-decoration: none;
+}

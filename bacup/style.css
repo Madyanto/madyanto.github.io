@@ -1,0 +1,85 @@
+*{
+    padding : 0;
+    margin: 0;   
+}
+table,td, th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    border-collapse: collapse;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+    h1{
+        color:rgba(83, 78, 6, 0.918);
+        cursor: pointer;
+        transition:0,2s;
+    }
+    body{
+        background-color: rgb(79, 100, 107);
+    }
+    td:hover{
+        background-color: rgba(182, 163, 81, 0.774);
+    }
+    th:hover{
+        background-color:  rgba(182, 163, 81, 0.774);
+    }
+    h1:hover{
+        color:rgba(182, 163, 81, 0.774);
+    }
+    img{
+        width: 4cm;
+        border-radius: 30%;
+        box-shadow: 1px 1px 4px rgba(182, 163, 81, 0.774);
+        padding: 3px;
+        background: black;
+        transition: 2s;
+        margin: 20px;
+        opacity: 75%;
+        cursor: pointer;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .klik a{
+        background-color: rgb(134, 119, 49);
+        border-radius: 10px;
+        padding: 12px 10px;
+        text-align: center;
+        display: inline block;
+        font-size: 16px;
+        margin: 4px;
+        margin: 2px;
+        cursor: pointer;
+        display: block;
+        margin-left: 45%;
+        margin-right: 45%;
+    }
+    img:hover{
+        transform: scale(1.2);
+        opacity: 100%;
+        box-shadow: 1px 1px 6px rgba(206, 134, 52, 0.829);
+    }
+    td,th{
+        border: 1px solid;
+        text-align: center;
+        padding: 9px;
+    }
+    .Nama{
+        text-align: center;
+    }
+    .best{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .judul-tabel{
+        background-color:rgba(182, 163, 81, 0.774);
+    
+    }
+    .tabel{
+        border-collapse: collapse;
+        width: 95%;
+        margin-left: 32px;
+    }

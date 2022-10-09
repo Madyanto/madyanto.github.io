@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+.link{
+    color: blue;
+}
+.logo-ikmi-cebn{
+    width: 85px;
+    height: 85px;
+    margin-left: 30px;
+} 
+.kertas-surat{
+    width: 800px;
+    padding: 17px;
+    height: 800px;
+    background-color: white;
+    margin: 0 auto;
+}
+h2{
+    font-size: 10px;
+    margin-top: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.kop-surat{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.Bagian-STMIK-IKMI{
+    display: flex;
+}
+.STMIK{
+    line-height: 40px;
+    font-size: 65px;
+    letter-spacing: 7px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: rgb(255, 1, 1);
+}
+.P-IKMI{
+    font-size: 32px;
+    line-height: 20px;
+    letter-spacing: 7px;
+    font-weight: bold;
+    color: blue;
+}
+.kota{
+    line-height: 29px;
+    font-size: 18px;
+    initial-letter: 3px;
+    font-weight: bold;
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.Alamat-kampus{
+    margin-top: 0px;
+    font-size: 10px;
+    margin-left: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Alamat-ikmi{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.Alamat-ikmi div{
+    letter-spacing: 1px;
+}
+.sk-Terakreditasi{
+    display: flex;
+    width: 90%;
+    margin-left: 37px;
+}
+.sk{
+    background-color: rgb(203, 0, 0);
+    width: 50%;
+    text-align: center;
+    color: white;
+    padding: 2px 0px;
+}
+.terakreditasi{
+    background-color: rgb(99, 228, 0);
+    width: 50%;
+    text-align: center;
+    color: white;
+    padding: 2px 0px;
+}
+.Judul-surat{
+    text-align: center;
+    margin-top: 15px;
+}
+.Judul{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
